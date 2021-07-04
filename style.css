@@ -115,8 +115,7 @@ section:last-child {
 
 .sectionTitle h1 {
 	font-style: italic;
-	font-size: 1.5em;
-	color: orange;
+	font-size: 1.5em; 
 }
 
 .sectionContent h2 {
@@ -142,7 +141,7 @@ section:last-child {
 }
 
 .linha-linhatitulo {
-	color: orange;
+	color: #cf8a05;
 }
 
 a:link, a:visited {
@@ -157,6 +156,9 @@ a:link, a:visited {
 	width: 183px;
 }
 
+h1, h2 {
+	color: #444444;
+}
 
 
 
